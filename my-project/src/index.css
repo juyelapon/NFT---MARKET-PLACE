@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.main-container{
+@apply max-w-300 mx-auto;
+}
+
+@theme{
+ --font-family: "Work Sans", sans-serif;
+}
+@layer base {
+  body {
+    @apply bg-[#2B2B2B];
+  }
+}

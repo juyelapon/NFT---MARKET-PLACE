@@ -30,7 +30,7 @@ const Third = () => {
                     </div>
 
                     {/* বোতাম */}
-                    <button className='flex items-center justify-center gap-3 font-work font-semibold text-[16px] text-white leading-[140%] border-2 border-[#A259FF] rounded-[20px] px-10 py-4 h-fit hover:bg-[#A259FF] transition-colors'>
+                    <button className='flex items-center justify-center gap-3 font-work font-semibold text-[16px] text-white leading-[140%] border-2 border-[#A259FF] rounded-[20px] px-10 py-4 h-fit '>
                         <SlRocket className='text-[#A259FF]' />
                         View Rankings
                     </button>

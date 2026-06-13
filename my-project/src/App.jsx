@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Second from './components/Second'
 import Third from './components/Third'
 import Fourth from './components/Fourth'
+import Fifith from './components/Fifith'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
     <Second/>
     <Third/>
     <Fourth/>
+    <Fifith/>
     </>
   )
 }

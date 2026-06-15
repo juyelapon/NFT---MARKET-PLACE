@@ -5,6 +5,7 @@ import Second from './components/Second'
 import Third from './components/Third'
 import Fourth from './components/Fourth'
 import Fifith from './components/Fifith'
+import SIxth from './components/SIxth'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
     <Third/>
     <Fourth/>
     <Fifith/>
+    <SIxth/>
     </>
   )
 }

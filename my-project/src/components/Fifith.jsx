@@ -8,7 +8,7 @@ import smalltwo from '../assets/smalltwo.png'
 import smallthree from '../assets/smallthree.png'
 const Fifith = () => {
     return (
-        <section className='mt-20'>
+        <section className='mt-40'>
             <div className='main-container'>
                 <div className='flex flex-col md:flex-row items-end justify-between gap-6'>
                     {/* টেক্সট গ্রুপ */}
